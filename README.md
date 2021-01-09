@@ -1,2 +1,2 @@
 # FRONTED-STORE-
-paguina senciila FRONTED
+paguina senciila FRONTED, css  y html
