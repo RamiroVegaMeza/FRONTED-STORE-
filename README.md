@@ -1,2 +1,2 @@
 # FRONTED-STORE-
-paguina sencilla frontend
+paguina senciila FRONTED
