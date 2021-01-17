@@ -1,2 +1,3 @@
 # FRONTED-STORE-
-paguina senciila FRONTED, css  y html
+Link:
+https://frontendstorebasic.netlify.app/
